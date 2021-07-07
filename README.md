@@ -1,2 +1,3 @@
 # snapple-fax-api
-An API for retrieving Snapple facts
+
+An API for retrieving Snapple facts.
